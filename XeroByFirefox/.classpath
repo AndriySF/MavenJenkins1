@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/classworlds-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/commons-cli-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/doxia-sink-api-1.0-alpha-7.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/exec-maven-plugin-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-artifact-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-artifact-manager-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-core-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-error-diagnostics-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-model-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-monitor-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-plugin-descriptor-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-plugin-parameter-documenter-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-plugin-registry-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-profile-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-project-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-reporting-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-repository-metadata-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-settings-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/maven-toolchain-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/plexus-container-default-1.0-alpha-9.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/plexus-interactivity-api-1.0-alpha-4.jar"/>
+	<classpathentry kind="lib" path="/Users/andriyshegera/Downloads/plexus-utils-2.0.5.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
